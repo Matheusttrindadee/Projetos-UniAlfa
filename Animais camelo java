@@ -1,0 +1,8 @@
+public class Camelo extends Animal {
+    @Override
+    public void emitirSom() {
+        System.out.println("O camelo ronca: brããã!")
+        System.out.println("O camelo raça: targui!")
+        System.out.println("O camelo peso: 1000kg!");
+    }
+}
