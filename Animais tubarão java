@@ -1,0 +1,8 @@
+public class Tubarao extends Animal {
+    @Override
+    public void emitirSom() {
+        System.out.println("O tubarão barulho: tiro!")
+        System.out.println("O tubarão raça: martelo!")
+        System.out.println("O tubarão peso: 330kg!");
+    }
+}
