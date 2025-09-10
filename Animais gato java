@@ -1,0 +1,8 @@
+public class Gato extends Animal {
+    @Override
+    public void emitirSom() {
+        System.out.println("O Gato Mia: Miau!")
+        System.out.println("O Gato Raça: Persa!")
+        System.out.println("O Gato Peso: 3,5kg!");
+    }
+}
