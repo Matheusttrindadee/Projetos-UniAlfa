@@ -1,0 +1,8 @@
+public class Cavalo extends Animal {
+    @Override
+    public void emitirSom() {
+        System.out.println("O cavalo relincha: iiirrrrrí!")
+        System.out.println("O cavalo raça: frísio!")
+        System.out.println("O cavalo peso: 450kg!");
+    }
+}
